@@ -12,7 +12,7 @@
   "profile": {
     "name": "typicode"
   }
-}
+
 {
    "sensor": "gps",
    "time": 9999,
@@ -21,3 +21,4 @@
      3.777
    ]
  }
+}
