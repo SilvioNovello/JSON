@@ -13,3 +13,11 @@
     "name": "typicode"
   }
 }
+{
+   "sensor": "gps",
+   "time": 9999,
+   "data": [
+     88.77777,
+     3.777
+   ]
+ }
